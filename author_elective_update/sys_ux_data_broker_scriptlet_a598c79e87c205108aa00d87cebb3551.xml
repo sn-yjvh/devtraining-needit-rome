@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_data_broker_scriptlet">
+    <sys_ux_data_broker_scriptlet action="DELETE">
+        <api_name>x_58872_needit.hellovh8989</api_name>
+        <description>hey yaaa</description>
+        <mutates_server_data>false</mutates_server_data>
+        <name>hellovh8989</name>
+        <output_schema/>
+        <private>true</private>
+        <props/>
+        <required_translations>[ ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <script/>
+        <sys_class_name>sys_ux_data_broker_scriptlet</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-07 20:11:36</sys_created_on>
+        <sys_id>a598c79e87c205108aa00d87cebb3551</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>hellovh8989</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_data_broker_scriptlet_a598c79e87c205108aa00d87cebb3551</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-07 20:13:02</sys_updated_on>
+    </sys_ux_data_broker_scriptlet>
+    <sys_translated_text action="DELETE" query="documentkey=a598c79e87c205108aa00d87cebb3551"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>e084b964db060d104d2bac44d496194c</instance_id>
+        <instance_name>cert524</instance_name>
+        <name>sys_ux_data_broker_scriptlet_a598c79e87c205108aa00d87cebb3551</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_data_broker_scriptlet"><sys_ux_data_broker_scriptlet action="INSERT_OR_UPDATE"><api_name>x_58872_needit.hellovh8989</api_name><description>hey yaaa</description><mutates_server_data>false</mutates_server_data><name>hellovh8989</name><output_schema/><private>true</private><props/><required_translations>[ ]</required_translations><schema_version>1.0.0</schema_version><script/><sys_class_name>sys_ux_data_broker_scriptlet</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-07 20:11:36</sys_created_on><sys_id>a598c79e87c205108aa00d87cebb3551</sys_id><sys_mod_count>3</sys_mod_count><sys_name>hellovh8989</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_data_broker_scriptlet_a598c79e87c205108aa00d87cebb3551</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-07 20:13:02</sys_updated_on></sys_ux_data_broker_scriptlet><sys_translated_text action="delete_multiple" query="documentkey=a598c79e87c205108aa00d87cebb3551"/></record_update>]]></payload>
+        <payload_hash>-942895812</payload_hash>
+        <record_name>hellovh8989</record_name>
+        <reverted_from/>
+        <source>35e9ac4e8706c1108aa00d87cebb35b1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-07 20:13:02</sys_created_on>
+        <sys_id>12f8cb9e87c205108aa00d87cebb352b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f66038b990000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-07 20:13:02</sys_updated_on>
+        <type>Data Broker Scriptlet</type>
+        <update_guid>5af8cb9e48c205106649a780f664e92a</update_guid>
+        <update_guid_history>5af8cb9e48c205106649a780f664e92a:-942895812,55e84b9e8dc205101b5cbecfa825ca5d:-1958962627,21b84b9e6fc20510de98f2b18bb17e4c:1040882431,a1a80b9ecec20510155f20f305b00a6d:-1320266543</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-07 20:13:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_data_broker_scriptlet">sys_ux_data_broker_scriptlet</sys_db_object>
+        <sys_id>1e3dd300cb4946a09b3d5102a7151c44</sys_id>
+        <sys_metadata>a598c79e87c205108aa00d87cebb3551</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hellovh8989</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_data_broker_scriptlet_a598c79e87c205108aa00d87cebb3551</sys_update_name>
+        <sys_update_version display_value="sys_ux_data_broker_scriptlet_a598c79e87c205108aa00d87cebb3551">12f8cb9e87c205108aa00d87cebb352b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-07 20:13:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
